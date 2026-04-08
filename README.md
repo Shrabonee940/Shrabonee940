@@ -1,5 +1,5 @@
 ### Hi there 👋, This is Shrabonee
-#### Maching Learning Developer
+#### SELECT * FROM mindset WHERE focus = ' positive' AND distractions = 'null';
 Currently I am learning ML/AI hope to learn something good.
 
 Skills:  HTML / CSS/Python
